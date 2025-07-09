@@ -1,5 +1,4 @@
 Name: GAGAN PRASHANT CHAFALE
-
 Company: Codec Technologies India 
 NCS ID: E19E86-0116588288923
 Domain: Electric Vehicle (EV) Technology Intern
